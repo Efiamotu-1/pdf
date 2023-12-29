@@ -8,7 +8,7 @@ import ContactMe from '../components/ContactMe'
 function HomePage() {
   return (
     <>
-    <div className='p-5 md:px-[3rem] lg:px-[15rem]'>
+    <div className='p-5 md:px-[3rem] lg:px-[10rem]'>
    <Header />
    <Hero />
    <About />

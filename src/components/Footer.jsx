@@ -6,7 +6,7 @@ import linkedin from '../assets/linkedin.png'
 
 function Footer() {
   return (
-    <footer className='flex flex-col md:flex-row md:justify-between mt-[5rem] gap-5 items-center bg-[#33323D] p-[3rem] text-white'>
+    <footer className='flex flex-col lg:px-[10rem] md:flex-row md:justify-between mt-[5rem] gap-5 items-center bg-[#33323D] p-[3rem] text-white'>
             <div className='flex flex-col items-center md:flex md:flex-row justify-between gap-5'>
             <img src={Logo}/>
             <p className='text-[12px] font-normal tracking-[2px] font-public-sans'>HOME</p>
